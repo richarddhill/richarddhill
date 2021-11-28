@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Richard Hill
 - 👀 I'd like to say I am interested in a lot of things, but just trying to hack GIt is what I am trying to do at the moment. 
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently improving my front-end development skills and managing a web design business
 - 💞️ I’m looking to collaborate on template and App design
 - 📫 How to reach me email me at richardhill@i-webdesigner.co.uk
 
